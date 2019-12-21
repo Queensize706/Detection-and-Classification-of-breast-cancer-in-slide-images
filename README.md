@@ -3,7 +3,7 @@
 Project description: Detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections.
 
 Presentation video link: (https://storage.googleapis.com/dl4cv1445/ADL/LuLiuPresentation.mp4)          
-Github repo link: (https://www.anaconda.com/distribution/)
+Github repo link: (https://github.com/Queensize706/AppliedDLProject)
 
 ## Setup
 
